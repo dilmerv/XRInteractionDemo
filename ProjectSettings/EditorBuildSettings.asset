@@ -5,9 +5,15 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/ARObjectPlacement.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 0
+    path: Assets/Scenes/ARAnnotationsPlacement.unity
+    guid: afa23417556374bc6b00847f74aa3648
+  - enabled: 1
+    path: Assets/Scenes/ARCanvasInteraction.unity
+    guid: 6a8029d29cef44a3e9da83215c5d0d2d
   m_configObjects:
     com.unity.xr.arkit.PlayerSettings: {fileID: 11400000, guid: 36eafc7b8f4654aae85d1189f42d8e2d,
       type: 2}
