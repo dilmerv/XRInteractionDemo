@@ -16,3 +16,7 @@ Results from various examples taught in YouTube:
 - ARCanvasInteraction.unity scene
 
 <img src="https://github.com/dilmerv/XRInteractionDemo/blob/master/docs/images/arcanvasinteraction.gif" width="300">
+
+- ARGesturesInteractableLog.unity scene
+
+<img src="https://github.com/dilmerv/XRInteractionDemo/blob/master/docs/images/argesturesinteractablelog.gif" width="300">
