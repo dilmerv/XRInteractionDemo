@@ -8,3 +8,11 @@ Results from various examples taught in YouTube:
 - ARObjectPlacement.unity scene
 
 <img src="https://github.com/dilmerv/XRInteractionDemo/blob/master/docs/images/arobjectplacement.gif" width="300">
+
+- ARAnnotationsPlacement.unity scene
+
+<img src="https://github.com/dilmerv/XRInteractionDemo/blob/master/docs/images/arannotationsplacement.gif" width="300">
+
+- ARCanvasInteraction.unity scene
+
+<img src="https://github.com/dilmerv/XRInteractionDemo/blob/master/docs/images/arcanvasinteraction.gif" width="300">
