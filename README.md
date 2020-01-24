@@ -16,10 +16,10 @@ Results from various examples taught in YouTube:
 
 ### VRProject Demos
 
-|Unity Scenes||
-|---|---|
-|XRRigBasicExample.unity||
-|<img src="https://github.com/dilmerv/XRInteractionDemo/blob/master/docs/images/xrrigbasicexample.gif" width="300">||
+|Unity Scenes|
+|---|
+|XRRigBasicExample.unity|
+|<img src="https://github.com/dilmerv/XRInteractionDemo/blob/master/docs/images/xrrigbasicexample.gif" width="300">|
 
 ### ARProject Demos
 
