@@ -9,6 +9,12 @@ Watch the AR Video Series in [YouTube](https://www.youtube.com/playlist?list=PLQ
 
 Results from various examples taught in YouTube:
 
+### VRProject Demos
+
+- XRRigBasicExample.unity scene
+
+<img src="https://github.com/dilmerv/XRInteractionDemo/blob/master/docs/images/xrrigbasicexample.gif" width="300">
+
 ### ARProject Demos
 
 - ARObjectPlacement.unity scene
@@ -26,9 +32,3 @@ Results from various examples taught in YouTube:
 - ARGesturesInteractableLog.unity scene
 
 <img src="https://github.com/dilmerv/XRInteractionDemo/blob/master/docs/images/argesturesinteractablelog.gif" width="300">
-
-### VRProject Demos
-
-- XRRigBasicExample.unity scene
-
-<img src="https://github.com/dilmerv/XRInteractionDemo/blob/master/docs/images/xrrigbasicexample.gif" width="300">
