@@ -16,24 +16,16 @@ Results from various examples taught in YouTube:
 
 ### VRProject Demos
 
-- XRRigBasicExample.unity scene
-
-<img src="https://github.com/dilmerv/XRInteractionDemo/blob/master/docs/images/xrrigbasicexample.gif" width="300">
+|Unity Scenes|
+|---|---|
+|XRRigBasicExample.unity||
+|<img src="https://github.com/dilmerv/XRInteractionDemo/blob/master/docs/images/xrrigbasicexample.gif" width="300">||
 
 ### ARProject Demos
 
-- ARObjectPlacement.unity scene
-
-<img src="https://github.com/dilmerv/XRInteractionDemo/blob/master/docs/images/arobjectplacement.gif" width="300">
-
-- ARAnnotationsPlacement.unity scene
-
-<img src="https://github.com/dilmerv/XRInteractionDemo/blob/master/docs/images/arannotationsplacement.gif" width="300">
-
-- ARCanvasInteraction.unity scene
-
-<img src="https://github.com/dilmerv/XRInteractionDemo/blob/master/docs/images/arcanvasinteraction.gif" width="300">
-
-- ARGesturesInteractableLog.unity scene
-
-<img src="https://github.com/dilmerv/XRInteractionDemo/blob/master/docs/images/argesturesinteractablelog.gif" width="300">
+|Unity Scenes|
+|---|---|
+|ARObjectPlacement.unity|ARAnnotationsPlacement.unity|
+|<img src="https://github.com/dilmerv/XRInteractionDemo/blob/master/docs/images/arobjectplacement.gif" width="300">|<img src="https://github.com/dilmerv/XRInteractionDemo/blob/master/docs/images/arannotationsplacement.gif" width="300">|
+|ARCanvasInteraction.unity|ARGesturesInteractableLog.unity|
+|<img src="https://github.com/dilmerv/XRInteractionDemo/blob/master/docs/images/arcanvasinteraction.gif" width="300">|<img src="https://github.com/dilmerv/XRInteractionDemo/blob/master/docs/images/argesturesinteractablelog.gif" width="300">|
