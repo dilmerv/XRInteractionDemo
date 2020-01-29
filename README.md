@@ -16,7 +16,7 @@ Results from various examples taught in YouTube:
 
 ### VRProject Demos
 
-|Unity Scenes|
+|Unity Scenes||
 |---|---|
 |XRRigBasicExample.unity|XRRigTeleportation.unity|
 |<img src="https://github.com/dilmerv/XRInteractionDemo/blob/master/docs/images/xrrigbasicexample.gif" width="300">|<img src="https://github.com/dilmerv/XRInteractionDemo/blob/master/docs/images/xrrigteleportation.gif" width="300">|
