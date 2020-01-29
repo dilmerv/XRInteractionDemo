@@ -20,6 +20,8 @@ Results from various examples taught in YouTube:
 |---|
 |XRRigBasicExample.unity|
 |<img src="https://github.com/dilmerv/XRInteractionDemo/blob/master/docs/images/xrrigbasicexample.gif" width="300">|
+|XRRigTeleportation.unity|
+|<img src="https://github.com/dilmerv/XRInteractionDemo/blob/master/docs/images/xrrigteleportation.gif" width="300">|
 
 ### ARProject Demos
 
