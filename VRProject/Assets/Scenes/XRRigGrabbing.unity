@@ -1216,7 +1216,7 @@ MonoBehaviour:
   m_PlayHapticsOnHoverExit: 0
   m_HapticHoverExitIntensity: 0
   m_HapticHoverExitDuration: 0
-  m_LineType: 0
+  m_LineType: 1
   m_MaxRaycastDistance: 60
   m_ReferenceFrame: {fileID: 0}
   m_Velocity: 16
@@ -1226,7 +1226,7 @@ MonoBehaviour:
   m_EndPointHeight: -10
   m_ControlPointDistance: 10
   m_ControlPointHeight: 5
-  m_SampleFrequency: 20
+  m_SampleFrequency: 60
   m_HitDetectionType: 0
   m_SphereCastRadius: 0
   m_RaycastMask:
@@ -3417,7 +3417,7 @@ MonoBehaviour:
   m_PlayHapticsOnHoverExit: 0
   m_HapticHoverExitIntensity: 0
   m_HapticHoverExitDuration: 0
-  m_LineType: 0
+  m_LineType: 1
   m_MaxRaycastDistance: 60
   m_ReferenceFrame: {fileID: 0}
   m_Velocity: 16
@@ -3427,7 +3427,7 @@ MonoBehaviour:
   m_EndPointHeight: -10
   m_ControlPointDistance: 10
   m_ControlPointHeight: 5
-  m_SampleFrequency: 20
+  m_SampleFrequency: 60
   m_HitDetectionType: 0
   m_SphereCastRadius: 0
   m_RaycastMask:
