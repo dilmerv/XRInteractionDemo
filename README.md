@@ -23,6 +23,9 @@ Results from various examples taught in YouTube:
 |XRRigGrabbing.unity|XRRigGrabbing.unity|
 |<img src="https://github.com/dilmerv/XRInteractionDemo/blob/master/docs/images/xrgrab_1.gif" width="300">|<img src="https://github.com/dilmerv/XRInteractionDemo/blob/master/docs/images/xrgrab_2.gif" width="300">||XRGUI.unity|XRGUI.unity|
 |<img src="https://github.com/dilmerv/XRInteractionDemo/blob/master/docs/images/xrgui_1.gif" width="300">|<img src="https://github.com/dilmerv/XRInteractionDemo/blob/master/docs/images/xrgui_2.gif" width="300">|
+|XRGUI.unity|XRGUI.unity|
+|<img src="https://github.com/dilmerv/XRInteractionDemo/blob/master/docs/images/xrgrab_1.gif" width="300">|<img src="https://github.com/dilmerv/XRInteractionDemo/blob/master/docs/images/xrthrow_1.gif" width="300">||XRGUI.unity|XRGUI.unity|
+|<img src="https://github.com/dilmerv/XRInteractionDemo/blob/master/docs/images/xrgui_1.gif" width="300">|<img src="https://github.com/dilmerv/XRInteractionDemo/blob/master/docs/images/xrthrow_2.gif" width="300">|
 
 
 ### ARProject Demos
