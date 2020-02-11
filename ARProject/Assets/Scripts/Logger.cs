@@ -46,4 +46,12 @@ public class Logger : Singleton<Logger>
             debugAreaText.text = string.Empty;
         }
     }
+
+    public void OnARObjectPlaced(
+        ARPlacementInteractableSingle arPlacementInteractableSingle, 
+        GameObject placedObject)
+    {
+        Logger.Instance.LogInfo(arPlacementInteractableSingle.name);
+        Logger.Instance.LogInfo(placedObject.name);
+    }
 }

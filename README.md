@@ -36,3 +36,5 @@ Results from various examples taught in YouTube:
 |<img src="https://github.com/dilmerv/XRInteractionDemo/blob/master/docs/images/arobjectplacement.gif" width="300">|<img src="https://github.com/dilmerv/XRInteractionDemo/blob/master/docs/images/arannotationsplacement.gif" width="300">|
 |ARCanvasInteraction.unity|ARGesturesInteractableLog.unity|
 |<img src="https://github.com/dilmerv/XRInteractionDemo/blob/master/docs/images/arcanvasinteraction.gif" width="300">|<img src="https://github.com/dilmerv/XRInteractionDemo/blob/master/docs/images/argesturesinteractablelog.gif" width="300">|
+|ARPlacementInteractableExtension.unity||
+|<img src="https://github.com/dilmerv/XRInteractionDemo/blob/master/docs/images/xrcustominteractable.gif" width="300">||
