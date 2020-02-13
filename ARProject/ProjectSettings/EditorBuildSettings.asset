@@ -17,9 +17,12 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/ARGesturesInteractableLog.unity
     guid: e4ad58849d664403999662b44d947baa
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/ARPlacementInteractableExtension.unity
     guid: 5df2cc171eb284695b6ab5c93ef1bd44
+  - enabled: 0
+    path: Assets/Scenes/ARPlacementInteractableExtensionAuto.unity
+    guid: 0a6fbc23766f149c79f513333d6e0f6f
   m_configObjects:
     com.unity.xr.arkit.PlayerSettings: {fileID: 11400000, guid: 36eafc7b8f4654aae85d1189f42d8e2d,
       type: 2}
