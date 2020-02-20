@@ -12,8 +12,8 @@ EditorBuildSettings:
     path: Assets/Scenes/XRRigGrabbing.unity
     guid: 9f887dbd9f9954615b3d00bf50fe1061
   - enabled: 1
-    path: Assets/Scenes/XRGUI.unity
-    guid: f93459558d2f944168e0953fe4090f35
+    path: Assets/Scenes/XRControllerExtended.unity
+    guid: 88ea32be1fe37462ea1b3ff5bf9baf74
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 03eb8ea17425642bdaade90e2983391c,
       type: 2}

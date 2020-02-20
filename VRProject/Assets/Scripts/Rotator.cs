@@ -21,6 +21,16 @@ public class Rotator : MonoBehaviour
         rotate = true;
     }
 
+    public void Forward()
+    {
+        speed = new Vector3(0,25,0);
+    }
+
+    public void Reverse()
+    {
+        speed = new Vector3(0,-25,0);
+    }
+
     public void StopRotation()
     {
         rotate = false;
