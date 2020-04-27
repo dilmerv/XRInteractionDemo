@@ -23,6 +23,9 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/ARPlacementInteractableExtensionAuto.unity
     guid: 0a6fbc23766f149c79f513333d6e0f6f
+  - enabled: 1
+    path: Assets/Scenes/ARObjectPlacementWithBlocking.unity
+    guid: 8ba88a12327174d528fd82c6b9a40cea
   m_configObjects:
     com.unity.xr.arkit.PlayerSettings: {fileID: 11400000, guid: 36eafc7b8f4654aae85d1189f42d8e2d,
       type: 2}
